@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adindasarianti
 - 👀 I’m interested in a Data Analyst role
 - 🌱 I’m currently learning SQL
-- 📫 How to reach me : [LinkedIn](www.linkedin.com/in/adindasarianti)
+- 📫 How to reach me : [LinkedIn](www.linkedin.com/in/adindasarianti/)
 
 <!---
 adindasarianti/adindasarianti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
