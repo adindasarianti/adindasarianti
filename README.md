@@ -9,6 +9,8 @@ Currently, I'm focusing on continuously learning and honing the skills needed to
 These repositories contain the projects I've worked on as part of my journey to build a career in the field of data.
 
 👀 How to reach me: [LinkedIn](https://www.linkedin.com/in/adindasarianti/)
+📊 My full project explanation: [Medium](https://medium.com/@adindasarianti)
+
 
 <!---
 adindasarianti/adindasarianti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
